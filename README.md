@@ -1,0 +1,4 @@
+# Experimental-Modeling
+Experiments investigate the cause and effect relationship between two variables. This is where they differ from observations and interviews - these two forms of survey only allow for the presumption of contexts, but cannot prove them. Depending on the problem, the environment of the test subjects is controlled in an experiment.
+
+For example, one could investigate whether drug X effectively combats disease Y. In experiments, the subjects are usually divided into two groups - one control and one experimental group. The experimental group actually receives the drug while the control group only proceeds with the standard treatment. A distinction is made between laboratory (controlled environment) and field experiments (in natural settings). Experiments must satisfy the scientific quality criteria of objectivity, reliability and validity.
